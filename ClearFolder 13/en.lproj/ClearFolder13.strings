@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUTO_CLOSE</key>
+	<string>Auto close (beta)</string>
+	<key>BOLD_TITLE</key>
+	<string>Bold Title</string>
+	<key>CLEAN_WALLPAPER_BLUR</key>
+	<string>No wallpaper blur</string>
+	<key>CLEAR_DOTS</key>
+	<string>Hide dots (HS &amp; Folders)</string>
+	<key>CONTROL_:</key>
+	<string>Enabled tweak</string>
+	<key>FOOTER</key>
+	<string>Consider supporting our work by making a donation. Thank you</string>
+	<key>HIDE_BACKGROUND_(FOLDER)</key>
+	<string>Hide open folder background</string>
+	<key>HIDE_ICONS_SHADOW_IN_BLUR</key>
+	<string>Hide icons and shadow from (HS)</string>
+	<key>HIDE_LABELS</key>
+	<string>Hide labels (HS &amp; Folders)</string>
+	<key>HIDE_TITLE</key>
+	<string>Hide open folder title</string>
+	<key>MOVE_FOLDER_IN_LANDSCAPE</key>
+	<string>Extended folder in landscape</string>
+	<key>ON_|_OFF</key>
+	<string>On | Off</string>
+	<key>RESPRING</key>
+	<string>🔅 Respring</string>
+	<key>RESPRING_TO_SAVE_CHANGES</key>
+	<string>Respring to save changes.</string>
+	<key>SHOW_STATUSBAR</key>
+	<string>Show statusbar</string>
+	<key>SPECIAL_THANKS_TO</key>
+	<string>Special thanks to</string>
+	<key>TITLE:</key>
+	<string>Clear folder customization</string>
+	<key>©️_@HUROUFTECH_2020
+ALL_RIGHT_RESERVED</key>
+	<string>©️ @HuroufTech 2020
+all right reserved</string>
+</dict>
+</plist>

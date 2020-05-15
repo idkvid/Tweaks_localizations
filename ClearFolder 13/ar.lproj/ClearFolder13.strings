@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AUTO_CLOSE</key>
+	<string>أغلاق تلقائي (تجريبي)</string>
+	<key>BOLD_TITLE</key>
+	<string>خط عنوان سميك</string>
+	<key>CLEAN_WALLPAPER_BLUR</key>
+	<string>أخفاء تظليل خلفية شاشة</string>
+	<key>CLEAR_DOTS</key>
+	<string>أخفاء نقاط صفحات (شاشة ومجلدات)</string>
+	<key>CONTROL_:</key>
+	<string>تفعيل الأداة</string>
+	<key>DEVELOPER</key>
+	<string>مطور الأداة</string>
+	<key>DONATE</key>
+	<string>دعم المطور</string>
+	<key>FOOTER</key>
+	<string>النظر في دعم عملنا بالتبرع. شكرا لك</string>
+	<key>HIDE_BACKGROUND_(FOLDER)</key>
+	<string>أخفاء خلفية مجلد مفتوح</string>
+	<key>HIDE_ICONS_SHADOW_IN_BLUR</key>
+	<string>أخفاء تظليل أيقونات من خلفية</string>
+	<key>HIDE_LABELS</key>
+	<string>أخفاء أسماء تطبيقات (شاشة ومجلدات)</string>
+	<key>HIDE_TITLE</key>
+	<string>أخفاء عنوان مجلد</string>
+	<key>MOVE_FOLDER_IN_LANDSCAPE</key>
+	<string>توسيع مجلد مع أيقونات (وضع أفقي)</string>
+	<key>ON_|_OFF</key>
+	<string>تشغيل | أيقاف</string>
+	<key>RESPRING</key>
+	<string>🔅 ريسبرنج (تشغيل سريع)</string>
+	<key>RESPRING_TO_SAVE_CHANGES</key>
+	<string>ريسبرنج لحفظ تغييرات.</string>
+	<key>SHOW_STATUSBAR</key>
+	<string>عرض شريط حالة دائماً</string>
+	<key>SPECIAL_THANKS_TO</key>
+	<string>شكر خاص إلىٰ</string>
+	<key>TITLE:</key>
+	<string>تخصيص مجلد شفاف</string>
+	<key>©️_@HUROUFTECH_2020
+ALL_RIGHT_RESERVED</key>
+	<string>©️ @HuroufTech ٢٠٢٠
+جميع حقوق محفوظة</string>
+</dict>
+</plist>
